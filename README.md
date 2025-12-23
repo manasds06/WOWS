@@ -1,0 +1,2 @@
+# WOWS
+AI Stock Agent
