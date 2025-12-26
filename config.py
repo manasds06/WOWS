@@ -29,5 +29,3 @@ def validateConfig():
         )
     
     print("success")
-
-
